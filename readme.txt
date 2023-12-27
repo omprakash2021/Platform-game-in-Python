@@ -1,1 +1,2 @@
 -trying to change repository, for the first time for this directory
+-a new message for a new branch
